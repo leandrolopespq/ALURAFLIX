@@ -1,0 +1,59 @@
+body{
+ color: black;
+ background: brown;
+ margin: 0px;
+
+
+
+}
+
+header {
+
+    border-bottom: solid 1px #ffe600;
+    padding: 20px;
+    font-size: 32px;
+    color: #ffe600;
+    font-family: "Nerko One", cursive;
+
+}
+
+
+.chamada {
+    background: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
+h1 {
+font-size: 40px;
+
+}
+
+p {
+    font-size: 20px;
+    
+    }
+
+    img {
+        height: 150px;
+    }
+
+    .categoria-videos {
+
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+    }
+
+    .categoria {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
